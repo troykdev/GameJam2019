@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0e39977f-1882-44b1-a2fe-2da79231cd08",
+            "Value": {
+                "id": "66cd50f5-8600-483f-9e31-3aa22b675dae",
+                "resourcePath": "scripts\\drawDialog\\drawDialog.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0ed70a5c-3077-44ed-83aa-88f43d1555e7",
             "Value": {
                 "id": "4f6bcf41-0e57-438d-be1e-0ec0b8b15e0e",
@@ -84,6 +92,14 @@
                 "id": "5d8e97b1-0850-4513-8e1f-99d6fe5e0132",
                 "resourcePath": "views\\1464917d-c9c3-41ee-b114-f48722c18a69.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "24e239b6-3150-4358-ae87-bbc25f84cda2",
+            "Value": {
+                "id": "766a6dd3-3af0-48e9-bc75-cd4fecab74a0",
+                "resourcePath": "scripts\\setNextText\\setNextText.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -295,6 +311,14 @@
             }
         },
         {
+            "Key": "d4516c3f-b527-4475-bec1-24ba7595719d",
+            "Value": {
+                "id": "036d4800-b5d4-4f39-989a-fbbb2ac3cfdf",
+                "resourcePath": "fonts\\dialog\\dialog.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "d5196ce6-1d0a-4576-9366-2402eef11481",
             "Value": {
                 "id": "0fa5080f-5106-48dd-88ca-d6a5803c938f",
@@ -369,7 +393,9 @@
     ],
     "script_order": [
         "01582226-f43d-49e0-9e76-5bbff7f18472",
-        "2dd57021-70c6-4d22-953f-62813494f192"
+        "2dd57021-70c6-4d22-953f-62813494f192",
+        "0e39977f-1882-44b1-a2fe-2da79231cd08",
+        "24e239b6-3150-4358-ae87-bbc25f84cda2"
     ],
     "tutorial": ""
 }
