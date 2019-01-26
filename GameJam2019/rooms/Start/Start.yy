@@ -1,6 +1,6 @@
 
 {
-    "name": "room0",
+    "name": "Start",
     "id": "e5e2d4a2-1c3f-4ac8-a3f9-eb0cc13fdc88",
     "creationCodeFile": "",
     "inheritCode": false,
@@ -43,7 +43,7 @@
             "id": "f827b023-0277-4135-8506-89e99bbd1936",
             "animationFPS": 15,
             "animationSpeedType": "0",
-            "colour": { "Value": 4294963424 },
+            "colour": { "Value": 4294967295 },
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
