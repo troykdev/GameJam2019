@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "d66e2ada-e439-4a15-a38a-5770fb7ae448",
+            "Value": {
+                "id": "ea8e28c9-7f8b-4684-83ec-7e193ec50faf",
+                "resourcePath": "objects\\obj_gameMechs\\obj_gameMechs.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dea7f4d1-7915-4701-9e53-b6771de60797",
             "Value": {
                 "id": "6f3f692d-f466-4bec-8ef2-ea59b270dfef",
